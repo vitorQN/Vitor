@@ -38,6 +38,3 @@
 - 📧 Email: **vitor.qn2004@gmail.com**
 - 💼 LinkedIn: [Vitor Queiroz Nunes](https://www.linkedin.com/in/vitor-queiroz-nunes-18319b278/)
 
----
-
-⭐ Feel free to check out my repositories and connect with me!
